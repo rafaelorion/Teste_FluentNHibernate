@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="50fa32a6-5153-4dff-b9df-60fab8cb98ad" name="ORION@ORION-NOTE 2011-01-09 20:27:19" runUser="ORION-NOTE\ORION" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="5e61e532-7c99-48bd-b1f3-4239a760295e">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="ORION_ORION-NOTE 2011-01-09 20_27_19">
+      <DeploymentItem filename="D:\ORION\Área de Trabalho\ORION_TESTE_FLUENT\TESTE_FluentNHibernate_com_linq\packages\log4net.1.2.10\lib\2.0\log4net.dll" />
+      <DeploymentItem filename="D:\ORION\Área de Trabalho\ORION_TESTE_FLUENT\TESTE_FluentNHibernate_com_linq\packages\Castle.DynamicProxy.2.1.0\lib\Castle.DynamicProxy2.dll" />
+      <DeploymentItem filename="D:\ORION\Área de Trabalho\ORION_TESTE_FLUENT\TESTE_FluentNHibernate_com_linq\packages\Antlr.3.1.1\lib\antlr.runtime.dll" />
+      <DeploymentItem filename="D:\ORION\Área de Trabalho\ORION_TESTE_FLUENT\TESTE_FluentNHibernate_com_linq\packages\Antlr.3.1.1\lib\Antlr3.Runtime.dll" />
+      <DeploymentItem filename="D:\ORION\Área de Trabalho\ORION_TESTE_FLUENT\TESTE_FluentNHibernate_com_linq\packages\Iesi.Collections.1.0.1\lib\Iesi.Collections.dll" />
+      <DeploymentItem filename="D:\ORION\Área de Trabalho\ORION_TESTE_FLUENT\TESTE_FluentNHibernate_com_linq\packages\Antlr.3.1.1\lib\Antlr3.Utility.dll" />
+      <DeploymentItem filename="D:\ORION\Área de Trabalho\ORION_TESTE_FLUENT\TESTE_FluentNHibernate_com_linq\packages\NHibernate.Linq.1.0\lib\NHibernate.Linq.dll" />
+      <DeploymentItem filename="D:\ORION\Área de Trabalho\ORION_TESTE_FLUENT\TESTE_FluentNHibernate_com_linq\packages\Antlr.3.1.1\lib\StringTemplate.dll" />
+      <DeploymentItem filename="D:\ORION\Área de Trabalho\ORION_TESTE_FLUENT\TESTE_FluentNHibernate_com_linq\packages\NHibernate.2.1.2.4000\lib\NHibernate.dll" />
+      <DeploymentItem filename="D:\ORION\Área de Trabalho\ORION_TESTE_FLUENT\TESTE_FluentNHibernate_com_linq\packages\FluentNHibernate.1.1.0.694\lib\FluentNHibernate.dll" />
+      <DeploymentItem filename="D:\ORION\Área de Trabalho\ORION_TESTE_FLUENT\TESTE_FluentNHibernate_com_linq\packages\NHibernate.2.1.2.4000\lib\NHibernate.ByteCode.Castle.dll" />
+      <DeploymentItem filename="D:\ORION\Área de Trabalho\ORION_TESTE_FLUENT\TESTE_FluentNHibernate_com_linq\packages\Castle.Core.1.1.0\lib\Castle.Core.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-01-09T20:27:19.8490000-03:00" queuing="2011-01-09T20:27:19.8700000-03:00" start="2011-01-09T20:27:19.9000000-03:00" finish="2011-01-09T20:27:23.3340000-03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ConsultarRegistrosComLinq" storage="d:\orion\área de trabalho\orion_teste_fluent\teste_fluentnhibernate_com_linq\teste_fluentnhibernate_com_linq\bin\debug\teste_fluentnhibernate_com_linq.dll" id="749ed490-8fbb-05ab-1c57-381fd7c4e4e7">
+      <Execution id="4977c638-7713-472a-92fc-3e89a14c3121" />
+      <TestMethod codeBase="D:/ORION/Área de Trabalho/ORION_TESTE_FLUENT/TESTE_FluentNHibernate_com_linq/TESTE_FluentNHibernate_com_linq/bin/Debug/TESTE_FluentNHibernate_com_linq.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TESTE_FluentNHibernate_com_linq.Teste_Fluent_com_Linq, TESTE_FluentNHibernate_com_linq, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ConsultarRegistrosComLinq" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="749ed490-8fbb-05ab-1c57-381fd7c4e4e7" executionId="4977c638-7713-472a-92fc-3e89a14c3121" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="4977c638-7713-472a-92fc-3e89a14c3121" testId="749ed490-8fbb-05ab-1c57-381fd7c4e4e7" testName="ConsultarRegistrosComLinq" computerName="ORION-NOTE" duration="00:00:02.9651553" startTime="2011-01-09T20:27:19.9120000-03:00" endTime="2011-01-09T20:27:23.2740000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4977c638-7713-472a-92fc-3e89a14c3121">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TESTE_FluentNHibernate_com_linq", "TESTE_FluentNHibernate_com_linq\TESTE_FluentNHibernate_com_linq.csproj", "{CBCB74AE-7D5F-4CC2-87CA-EC0F9B76D3F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A3629C09-7B3E-46E5-B9B8-5DA984D02A6A}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		TESTE_FluentNHibernate_com_linq.vsmdi = TESTE_FluentNHibernate_com_linq.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = TESTE_FluentNHibernate_com_linq.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBCB74AE-7D5F-4CC2-87CA-EC0F9B76D3F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBCB74AE-7D5F-4CC2-87CA-EC0F9B76D3F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBCB74AE-7D5F-4CC2-87CA-EC0F9B76D3F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBCB74AE-7D5F-4CC2-87CA-EC0F9B76D3F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
